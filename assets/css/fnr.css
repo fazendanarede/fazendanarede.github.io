@@ -36,7 +36,7 @@
 }
 
 @media (max-width: 768px) {
-  .gt-top-menu.transparent {
+  .gt-top-menu.transparent li > a {
     color: #333;
   }
 }
